@@ -1,8 +1,8 @@
 {
     "CedNath":  {
-                    "scaleX":  1,
-                    "scaleZ":  1,
+                    "scaleX":  5,
+                    "scaleZ":  5,
                     "tag":  null,
-                    "scaleY":  1
+                    "scaleY":  5
                 }
 }
