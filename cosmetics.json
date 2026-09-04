@@ -1,9 +1,9 @@
 {
     "paprekano":  {
-                      "scaleX":  100,
-                      "scaleZ":  100,
-                      "tag":  "IM PAPREKANO",
-                      "scaleY":  100
+                      "scaleX":  2,
+                      "scaleZ":  2,
+                      "tag":  null,
+                      "scaleY":  2
                   },
     "MrBucketSos":  {
                         "scaleX":  3,
