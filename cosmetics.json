@@ -1,14 +1,14 @@
 {
     "MrBucketSos":  {
-                        "scaleX":  2,
-                        "scaleZ":  1,
+                        "scaleX":  3,
+                        "scaleZ":  3,
                         "tag":  "\u003crainbow\u003eMrBucketSos",
-                        "scaleY":  2
+                        "scaleY":  3
                     },
     "CedNath":  {
-                    "scaleX":  1.5,
-                    "scaleZ":  2,
+                    "scaleX":  1,
+                    "scaleZ":  1,
                     "tag":  " \u003cgradient:#ff0066:#6600ff\u003eCedNath\u003c/gradient\u003e",
-                    "scaleY":  0.1
+                    "scaleY":  0.3
                 }
 }
