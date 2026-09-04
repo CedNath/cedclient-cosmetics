@@ -1,8 +1,8 @@
 {
     "CedNath":  {
-                    "scaleX":  2,
-                    "scaleZ":  2,
-                    "tag":  "\u003cgradient:#ff0066:#6600ff\u003eCedNath\u003c/gradient\u003e",
-                    "scaleY":  0.2
+                    "scaleX":  5,
+                    "scaleZ":  5,
+                    "tag":  " \u003cgradient:#ff0066:#6600ff\u003eCedNath\u003c/gradient\u003e",
+                    "scaleY":  5
                 }
 }
