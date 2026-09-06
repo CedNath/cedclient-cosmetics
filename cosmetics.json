@@ -6,10 +6,10 @@
                       "scaleY":  2
                   },
     "mrbucketsos":  {
-                        "scaleX":  1.2,
-                        "scaleZ":  1.2,
+                        "scaleX":  2,
+                        "scaleZ":  1,
                         "tag":  null,
-                        "scaleY":  1.2
+                        "scaleY":  1
                     },
     "CedNath":  {
                     "scaleX":  1,
