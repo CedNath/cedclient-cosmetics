@@ -11,6 +11,12 @@
                         "tag":  null,
                         "scaleY":  1
                     },
+    "player879":  {
+                      "scaleX":  5,
+                      "scaleZ":  5,
+                      "tag":  "fatass",
+                      "scaleY":  5
+                  },
     "CedNath":  {
                     "scaleX":  1,
                     "scaleZ":  1,
