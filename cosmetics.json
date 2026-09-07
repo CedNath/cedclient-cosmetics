@@ -1,26 +1,32 @@
 {
+    "monachan":  {
+                     "scaleX":  1,
+                     "scaleZ":  1,
+                     "tag":  null,
+                     "scaleY":  0.5
+                 },
+    "CedNath":  {
+                    "scaleX":  1,
+                    "scaleZ":  1,
+                    "tag":  " \u003cgradient:#ff0066:#6600ff\u003eCedNath\u003c/gradient\u003e",
+                    "scaleY":  0.3
+                },
+    "mrbucketsos":  {
+                        "scaleX":  3,
+                        "scaleZ":  1,
+                        "tag":  null,
+                        "scaleY":  1
+                    },
     "paprekano":  {
                       "scaleX":  2,
                       "scaleZ":  2,
                       "tag":  null,
                       "scaleY":  2
                   },
-    "mrbucketsos":  {
-                        "scaleX":  2,
-                        "scaleZ":  1,
-                        "tag":  null,
-                        "scaleY":  1
-                    },
     "player879":  {
                       "scaleX":  5,
                       "scaleZ":  5,
                       "tag":  "fatass",
                       "scaleY":  5
-                  },
-    "CedNath":  {
-                    "scaleX":  1,
-                    "scaleZ":  1,
-                    "tag":  " \u003cgradient:#ff0066:#6600ff\u003eCedNath\u003c/gradient\u003e",
-                    "scaleY":  0.3
-                }
+                  }
 }
