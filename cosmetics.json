@@ -28,5 +28,11 @@
                       "scaleZ":  2,
                       "tag":  null,
                       "scaleY":  2
-                  }
+                  },
+    "abhu":  {
+                 "scaleX":  2,
+                 "scaleZ":  1,
+                 "tag":  "\u0026#9ACC1DAbhu",
+                 "scaleY":  1
+             }
 }
