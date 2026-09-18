@@ -17,6 +17,12 @@
                     "tag":  "\u003cgradient:#000000:#A80707\u003eCedNath\u003c/gradient\u003e",
                     "scaleY":  0.3
                 },
+    "nelas1":  {
+                   "scaleX":  4,
+                   "scaleZ":  1,
+                   "tag":  null,
+                   "scaleY":  1
+               },
     "mrbucketsos":  {
                         "scaleX":  3,
                         "scaleZ":  1,
