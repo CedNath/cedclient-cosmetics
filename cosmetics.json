@@ -20,7 +20,7 @@
     "nelas1":  {
                    "scaleX":  3,
                    "scaleZ":  1,
-                   "tag":  "\u003cgradient:#15FF00:#0400FF\u003eNelas1\u003c/gradient\u003e",
+                   "tag":  "\u003cgradient:#15FF00:#0400FF\u003enelas1\u003c/gradient\u003e",
                    "scaleY":  0.5
                },
     "mrbucketsos":  {
