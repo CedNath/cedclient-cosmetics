@@ -41,12 +41,6 @@
                  "tag":  "\u003cgradient:#ff0066:#6600ff\u003eMoon\u003c/gradient\u003e",
                  "scaleY":  0.5
              },
-    "Cleeve":  {
-                   "scaleX":  2,
-                   "scaleZ":  1,
-                   "tag":  "\u003cgradient:#00D4FF:#020024\u003eCleeve\u003c/gradient\u003e",
-                   "scaleY":  1
-               },
     "wikitikifisher":  {
                            "scaleX":  3,
                            "scaleZ":  3,
