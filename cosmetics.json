@@ -1,9 +1,9 @@
 {
     "abhu":  {
-                 "scaleX":  2,
-                 "scaleZ":  1,
-                 "tag":  "\u0026#9ACC1DAbhu",
-                 "scaleY":  1
+                 "scaleX":  5,
+                 "scaleZ":  5,
+                 "tag":  null,
+                 "scaleY":  5
              },
     "nelas1":  {
                    "scaleX":  3,
