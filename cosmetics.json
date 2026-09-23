@@ -42,9 +42,9 @@
                  "scaleY":  0.5
              },
     "Cleeve":  {
-                   "scaleX":  1,
-                   "scaleZ":  1,
-                   "tag":  "\u003cgradient:#00D4FF:#020024\u003eCleeve? \u003c/gradient\u003e",
+                   "scaleX":  2,
+                   "scaleZ":  2,
+                   "tag":  "\u003cgradient:#00D4FF:#020024\u003eCleeve\u003c/gradient\u003e",
                    "scaleY":  0.2
                },
     "wikitikifisher":  {
