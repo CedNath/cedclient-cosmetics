@@ -48,9 +48,9 @@
                    "scaleY":  0.5
                },
     "wikitikifisher":  {
-                           "scaleX":  3,
-                           "scaleZ":  3,
+                           "scaleX":  0.5,
+                           "scaleZ":  0.5,
                            "tag":  "\u003cgradient:#00FFBF:#FB00FF\u003eWikiTikiFisher\u003c/gradient\u003e",
-                           "scaleY":  3
+                           "scaleY":  0.5
                        }
 }
