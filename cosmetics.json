@@ -1,10 +1,4 @@
 {
-    "abhu":  {
-                 "scaleX":  1.5,
-                 "scaleZ":  1.5,
-                 "tag":  "\u0026o\u003cgradient:#001885:#00FFF7\u003eabhu\u003c/gradient\u003e",
-                 "scaleY":  1.5
-             },
     "nelas1":  {
                    "scaleX":  3,
                    "scaleZ":  1,
@@ -17,11 +11,17 @@
                      "tag":  null,
                      "scaleY":  0.5
                  },
+    "1cos":  {
+                 "scaleX":  0.5,
+                 "scaleZ":  0.5,
+                 "tag":  "\u003cgradient:#ff0066:#6600ff\u003eMoon\u003c/gradient\u003e",
+                 "scaleY":  0.5
+             },
     "CedNath":  {
-                    "scaleX":  2,
-                    "scaleZ":  2,
+                    "scaleX":  1,
+                    "scaleZ":  1,
                     "tag":  "\u0026l\u0026o\u003cgradient:#000000:#A80707\u003eCedNath\u003c/gradient\u003e",
-                    "scaleY":  1
+                    "scaleY":  1.2
                 },
     "mrbucketsos":  {
                         "scaleX":  3,
@@ -35,11 +35,11 @@
                       "tag":  null,
                       "scaleY":  2
                   },
-    "1cos":  {
-                 "scaleX":  0.5,
-                 "scaleZ":  0.5,
-                 "tag":  "\u003cgradient:#ff0066:#6600ff\u003eMoon\u003c/gradient\u003e",
-                 "scaleY":  0.5
+    "abhu":  {
+                 "scaleX":  1.5,
+                 "scaleZ":  1.5,
+                 "tag":  "\u0026o\u003cgradient:#001885:#00FFF7\u003eabhu\u003c/gradient\u003e",
+                 "scaleY":  1.5
              },
     "cleeve":  {
                    "scaleX":  0.5,
